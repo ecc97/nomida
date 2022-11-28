@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nomida/build/static/css/main.dea2909a.css",
+    "main.js": "/nomida/build/static/js/main.9b292407.js",
+    "index.html": "/nomida/build/index.html",
+    "main.dea2909a.css.map": "/nomida/build/static/css/main.dea2909a.css.map",
+    "main.9b292407.js.map": "/nomida/build/static/js/main.9b292407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea2909a.css",
+    "static/js/main.9b292407.js"
+  ]
+}
